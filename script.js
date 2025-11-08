@@ -59,7 +59,7 @@ function runValidation() {
   }
 }
 
-// === Fun animation for valid code ===
+
 function launchStickers() {
    const stickers = ["🎉", "🎉", "🎉", "🎉", "🎉", "🎉", "🎉", "🎉", "🎉", "🎉", "🎉"];
   for (let i = 0; i < 8; i++) {
